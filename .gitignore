@@ -1,0 +1,7 @@
+#IDEs
+.vscode/
+
+# Ambiente virtual
+app/llama/llama/
+app/openrouter/chatvenv/
+.venv/

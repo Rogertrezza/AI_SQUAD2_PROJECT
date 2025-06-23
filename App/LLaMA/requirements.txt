@@ -1,0 +1,24 @@
+# Core dependencies
+streamlit==1.28.1
+pandas==2.1.1
+numpy==1.24.3
+plotly==5.17.0
+python-dotenv==1.0.0
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# LangChain core
+langchain==0.0.312
+langchain-community==0.0.10
+
+# OpenAI (opcional)
+openai==0.28.1
+
+# Para HuggingFace/Transformers (opcional)
+transformers==4.35.0
+torch==2.1.0
+accelerate==0.24.0
+bitsandbytes==0.41.1
+
+# Para GPU support (opcional - descomente se tiver GPU NVIDIA)
+# torch==2.1.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
