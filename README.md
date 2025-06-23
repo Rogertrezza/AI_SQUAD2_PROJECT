@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🧠 Agente Inteligente para Análise de Notas Fiscais TCU
 📋 Descrição do Projeto
 Este projeto implementa um agente inteligente capaz de responder perguntas em linguagem natural sobre dados de notas fiscais do Tribunal de Contas da União (TCU). O sistema utiliza o framework LangChain para criar um agente que combina processamento de linguagem natural com análise de dados usando Pandas.
@@ -136,3 +137,7 @@ Desenvolvedor Principal: [Seu Nome]
 Framework: LangChain + Streamlit + Pandas
 Modelo de IA: OpenAI GPT-3.5/4
 Período: Janeiro 2024
+=======
+# AI_SQUAD2_PROJECT
+Grupo para projeto I2A2
+>>>>>>> a91062af0378de1c4406ddf193b83e0b41b1f676
